@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>dataset046</filename>
+  <path>C:\Users\USER\Downloads\labelimg\train\dataset046.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>213</width>
+    <height>213</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cancer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>82</ymin>
+      <xmax>187</xmax>
+      <ymax>178</ymax>
+    </bndbox>
+  </object>
+</annotation>

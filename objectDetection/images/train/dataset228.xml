@@ -1,0 +1,26 @@
+<annotation>
+  <folder>cancer</folder>
+  <filename>dataset228</filename>
+  <path>C:\Users\USER\Desktop\dataset\cancer\cancer_107.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>94</width>
+    <height>139</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cancer</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>30</ymin>
+      <xmax>87</xmax>
+      <ymax>100</ymax>
+    </bndbox>
+  </object>
+</annotation>

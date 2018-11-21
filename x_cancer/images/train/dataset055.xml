@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>dataset055</filename>
+  <path>C:\Users\USER\Downloads\labelimg\train\dataset055.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>235</width>
+    <height>235</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>abnormal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>108</xmin>
+      <ymin>79</ymin>
+      <xmax>160</xmax>
+      <ymax>132</ymax>
+    </bndbox>
+  </object>
+</annotation>
